@@ -1,6 +1,6 @@
 ## Hi there, I'm Rudal Kunwar! 👋
 
-I'm a software developer from [your_location] passionate about building cool stuff.
+I'm a software developer from bharatpur,chitwan passionate about building cool stuff.
 
 - 🔭 I’m currently working on **todoflow**.
 - 🌱 I’m currently learning **React**, **Node.js**, and **Laravel**.
