@@ -20,27 +20,8 @@ I'm a software developer from [your_location] passionate about building cool stu
 [<img align="left" alt="rudalkunwar | Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" />][facebook]
 
 <br />
+## GitHub Stats and Top Languages
+[![Rudal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />][node]
-[<img align="left" alt="Laravel" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919063.svg" />][laravel]
-
-<br />
-<br />
-
-[linkedin]: https://www.linkedin.com/in/rudalkunwar
-[twitter]: https://twitter.com/rudalkunwar
-[instagram]: https://www.instagram.com/rudalkunwar
-[facebook]: https://www.facebook.com/rudalkunwar
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react]: https://reactjs.org/
-[node]: https://nodejs.org/
-[laravel]: https://laravel.com/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
