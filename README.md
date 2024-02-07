@@ -16,3 +16,6 @@ I'm a software developer from [your_location] passionate about building cool stu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Profile Views
+![](https://komarev.com/ghpvc/?username=rudalkunwar&color=blue)
+
