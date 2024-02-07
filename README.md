@@ -7,7 +7,6 @@ I'm a software developer from [your_location] passionate about building cool stu
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with **React** and **Node.js**.
 - 💬 Ask me about anything! I'm happy to help.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life is not fun anymore 😪.
 
 ![Coding](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
