@@ -1,17 +1,12 @@
 ### Hi there 👋
-I am rudal kunwar
+I am Rudal Kunwar from [your_location].
 
-<!--
-**rudalkunwar/rudalkunwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on todoflow.
+- 🌱 I’m currently learning react,node,laravel.
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with react and node.
+- 💬 Ask me about myself.
+- 📫 How to reach me:haha not here.
+- 😄 Pronouns: ankuha.
+- ⚡ Fun fact: life is not fun anymore 😪.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
