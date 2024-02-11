@@ -2,13 +2,6 @@
 
 I'm a software developer from **Bharatpur**, **Chitwan** passionate about building cool stuff.
 
-- 🔭 I’m currently working on **todoflow**.
-- 🌱 I’m currently learning **React**, **Node.js**, and **Laravel**.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with **React** and **Node.js**.
-- 💬 Ask me about anything! I'm happy to help.
-- ⚡ Fun fact: Life is not fun anymore 😪.
-
 ![Coding](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
 
 ## GitHub Stats and Top Languages
