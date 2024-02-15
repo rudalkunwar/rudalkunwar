@@ -1,6 +1,5 @@
 ## Hi there, I'm Rudal Kunwar! 👋
 ## Find More, https://www.rudalkunwar.com.np/
-I'm a software developer from **Bharatpur**, **Chitwan** passionate about building cool stuff.
 
 ![Coding](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
 
