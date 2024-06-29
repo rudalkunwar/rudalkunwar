@@ -1,11 +1,25 @@
 ## Hi there, I'm Rudal Kunwar! 👋
-## Find More, https://www.rudalkunwar.com.np/
 
-![Coding](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
+I'm a passionate software developer dedicated to crafting efficient solutions and innovative tools. Explore my latest project:
 
-## GitHub Stats and Top Languages
+### Rudal Cipher Toolkit
+
+Rudal Cipher Toolkit provides robust functions for encoding and decoding messages using a variant of the Vigenère cipher. It's designed to securely transform messages with ease.
+
+#### GitHub Stats and Top Languages
+
 [![Rudal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Profile Views
+#### NPM Package
+
+- [Rudal Cipher Toolkit](https://www.npmjs.com/package/rudal-cipher-toolkit)
+  - Easy-to-use functions for encryption and decryption.
+  - Integrates seamlessly with Node.js applications.
+
+#### Profile Views
+
 ![](https://komarev.com/ghpvc/?username=rudalkunwar&color=blue)
 
+#### Find More
+
+- [Personal Website](https://www.rudalkunwar.com.np/)
