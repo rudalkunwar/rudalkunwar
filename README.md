@@ -130,14 +130,6 @@ I'm a software developer passionate about creating tools and applications that m
 ---
 
 ## My Favorite 
-<div>
-
-## 🎥 Demo Video
-
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s1QCL9AGbO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
