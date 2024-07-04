@@ -20,6 +20,56 @@ I'm a software developer passionate about creating tools and applications that m
 #### Find More
 ![](https://camo.githubusercontent.com/ad39d2256e75696e7c798eeee7dc8bfc6a6ad3c98f10f35a5e0e795e5ed7ef77/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f376275697259636d56356e53774952572f67697068792e676966)
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,python,laravel,mongodb,firebase,react,nodejs,express&perline=5"  />
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rudalkunwar">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rudalkunwar">
+          <img align="center" src="https://streak-stats.demolab.com?user=rudalkunwar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rudalkunwar/your-latest-project">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=rudalkunwar&repo=your-latest-project&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Your Latest Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rudalkunwar">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rudalkunwar&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
