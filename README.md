@@ -20,6 +20,23 @@ I'm a software developer passionate about creating tools and applications that m
 #### Find More
 ![](https://camo.githubusercontent.com/ad39d2256e75696e7c798eeee7dc8bfc6a6ad3c98f10f35a5e0e795e5ed7ef77/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f376275697259636d56356e53774952572f67697068792e676966)
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashkandel&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Expect%20the%20best%20of%20yourself%2C%20and%20then%20do%20what%20is%20necessary%20to%20make%20it%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
