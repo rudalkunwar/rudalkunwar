@@ -29,7 +29,7 @@ I'm a software developer passionate about creating tools and applications that m
 ## 📊 GitHub Stats and Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical" alt="Rudal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical" alt="Rudal's GitHub stats" style="margin-left: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
