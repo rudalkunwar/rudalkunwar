@@ -30,6 +30,7 @@ I'm a software developer passionate about creating tools and applications that m
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical" alt="Rudal's GitHub stats" style="margin-right: 20px;" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
