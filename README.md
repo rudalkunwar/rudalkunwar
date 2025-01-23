@@ -68,9 +68,7 @@ I'm a software developer passionate about creating tools and applications that m
     </td>
  <td width="50%">
   <h3 align="center"><strong>Streak Stats</strong></h3>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=rudalkunwar&theme='dark'" alt="GitHub Streak Stats">
-  </p>
+  ![image](https://user-images.githubusercontent.com/20955511/183303756-2b0134af-ab8b-42d4-b805-4e853f929c5e.png)
 </td>
   </tr>
   <tr>
