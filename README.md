@@ -66,10 +66,10 @@ I'm a software developer passionate about creating tools and applications that m
         </a>
       </p>
     </td>
-  <td width="50%">
+ <td width="50%">
   <h3 align="center"><strong>Streak Stats</strong></h3>
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=rudalkunwar&type=png" alt="GitHub Streak Stats">
+    <img src="https://streak-stats.demolab.com/?user=rudalkunwar&theme='dark'" alt="GitHub Streak Stats">
   </p>
 </td>
   </tr>
