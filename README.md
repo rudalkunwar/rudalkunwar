@@ -70,7 +70,7 @@ I'm a software developer passionate about creating tools and applications that m
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/rudalkunwar">
-          <img align="center" src="https://streak-stats.demolab.com/?user=rudalkunwar&theme=dark)](https://git.io/streak-stats" alt="Streak Stats" />
+       [![GitHub Streak](https://streak-stats.demolab.com/?user=rudalkunwar)](https://git.io/streak-stats)
         </a>
       </p>
     </td>
