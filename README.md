@@ -63,44 +63,16 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 ## 📊 GitHub Odyssey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&bg_color=0D1117&hide_title=true&hide_rank=true" alt="GitHub Stats" height="160">
+ <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true" alt="GitHub Stats"/> </picture> 
 <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3B82F6&background=0D1117" alt="GitHub Streak" height="160">
 </div>
-
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudalkunwar&theme=darkhub&no-frame=true&row=1&column=4" alt="GitHub Trophies">
-</div>
-
 ---
 
 ## 🌱 Growth Garden
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph">
-</div>
-
----
-
-## 💡 Innovation Spotlight
-
-<div align="center">
-  <div>
-    <h4>Latest Blog Post</h4>
-    <a href="https://dev.to/rudalkunwar">
-      <img src="https://res.cloudinary.com/dqab7rimk/image/upload/v1706002950/blog-post-placeholder_jyq5mf.png" alt="Latest Blog Post" width="250px">
-    </a>
-  </div>
-  <div>
-    <h4>Current Project</h4>
-    <a href="https://github.com/rudalkunwar">
-      <img src="https://res.cloudinary.com/dqab7rimk/image/upload/v1706002950/project-placeholder_kxyaz5.png" alt="Current Project" width="250px">
-    </a>
-  </div>
 </div>
 
 ---
