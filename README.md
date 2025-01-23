@@ -43,13 +43,6 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 ---
 
 ## 🌟 Featured Creations
-
-<div align="center">
-  <a href="https://www.npmjs.com/package/rudal-cipher-toolkit">
-    <img src="https://res.cloudinary.com/dqab7rimk/image/upload/v1706002550/rudal-cipher-toolkit_pngjo7.png" alt="Rudal Cipher Toolkit" width="400px">
-  </a>
-</div>
-
 <h3 align="center">
   <a href="https://www.npmjs.com/package/rudal-cipher-toolkit">Rudal Cipher Toolkit</a>
 </h3>
@@ -71,6 +64,7 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&bg_color=0D1117&hide_title=true&hide_rank=true" alt="GitHub Stats" height="160">
+<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3B82F6&background=0D1117" alt="GitHub Streak" height="160">
 </div>
 
@@ -110,19 +104,6 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/rudalkunwar">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Fuel my code&emoji=☕&slug=rudalkunwar&button_colour=3B82F6&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me A Coffee" width="200px">
-  </a>
-</div>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=rudalkunwar&color=3B82F6&style=for-the-badge)
 
-</div>
-
-<div align="center">
-  <img src="https://res.cloudinary.com/dqab7rimk/image/upload/v1706001950/rudal-sleek-footer_pjbznf.png" alt="Rudal Kunwar Footer" width="100%">
 </div>
