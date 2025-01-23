@@ -2,9 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Rudal%20Kunwar&fontSize=70&fontAlignY=40&animation=scaleIn"/>
 </div>
 
-<h3 align="center" style="background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px;">
+<h2 align="center" style="background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px;">
   🚀 Software Developer | Tech Innovator | Open Source Enthusiast
-</h3>
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,tailwind,express,laravel,firebase,mysql,nextjs&perline=5" alt="Tech Stack"/>
+</div>
 
 ## 🌐 About My Journey
 
@@ -16,15 +20,9 @@ Crafting digital solutions that bridge imagination and functionality. My code is
 [![NPM Version](https://img.shields.io/npm/v/rudal-cipher-toolkit?style=flat-square&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/rudal-cipher-toolkit)
 [![Downloads](https://img.shields.io/npm/dm/rudal-cipher-toolkit?style=flat-square&logo=npm&logoColor=white&color=blue)](https://www.npmjs.com/package/rudal-cipher-toolkit)
 
-## 💻 Tech Landscape
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,tailwind,express,laravel,firebase,mysql,nextjs&perline=5" alt="Tech Stack"/>
-</p>
-
 ## 📊 GitHub Constellation
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true"
@@ -73,8 +71,6 @@ Crafting digital solutions that bridge imagination and functionality. My code is
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rudalkunwar&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
