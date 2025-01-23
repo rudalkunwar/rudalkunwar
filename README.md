@@ -66,12 +66,10 @@ I'm a software developer passionate about creating tools and applications that m
         </a>
       </p>
     </td>
-   <td width="50%">
+  <td width="50%">
   <h3 align="center"><strong>Streak Stats</strong></h3>
   <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=rudalkunwar" alt="GitHub Streak Stats">
-    </a>
+    <img src="https://streak-stats.demolab.com/?user=rudalkunwar&type=png" alt="GitHub Streak Stats">
   </p>
 </td>
   </tr>
