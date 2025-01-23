@@ -36,15 +36,9 @@ Crafting digital solutions that bridge imagination and functionality. My code is
   </picture>
 
   <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=radical&background=0D1117&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true" alt="Streak Stats"/>
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak Stats" width="500"/>
+</div>
   </picture>
 </div>
 
