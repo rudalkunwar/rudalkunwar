@@ -68,7 +68,11 @@ I'm a software developer passionate about creating tools and applications that m
     </td>
  <td width="50%">
   <h3 align="center"><strong>Streak Stats</strong></h3>
-  ![image](https://user-images.githubusercontent.com/20955511/183303756-2b0134af-ab8b-42d4-b805-4e853f929c5e.png)
+<p align="center">
+    <a href="https://github.com/rudalkunwar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rudal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 </td>
   </tr>
   <tr>
