@@ -16,15 +16,9 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
 I'm a software alchemist, turning lines of code into digital gold. With a passion for clean, efficient, and innovative solutions, I navigate the ever-evolving tech landscape, leaving a trail of elegant code in my wake.
 
 ---
-
-## 🛠 Tech Arsenal
-
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
@@ -41,8 +35,6 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 </div>
 
 ---
-
-## 🌟 Featured Creations
 <h3 align="center">
   <a href="https://www.npmjs.com/package/rudal-cipher-toolkit">Rudal Cipher Toolkit</a>
 </h3>
@@ -60,17 +52,12 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 
 ---
 
-## 📊 GitHub Odyssey
-
 <div align="center">
  <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true" alt="GitHub Stats"/> </picture> 
 <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3B82F6&background=0D1117" alt="GitHub Streak" height="160">
 </div>
 ---
-
-## 🌱 Growth Garden
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph">
 </div>
