@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/81546732?v=4" alt="Rudal Kunwar" width="100%">
-</div>
-
-<h1 align="center" style="font-family: 'Inter', sans-serif; font-weight: 800; letter-spacing: -0.05em;">
+<h1 align="center">
   Rudal Kunwar
 </h1>
 
-<p align="center" style="font-family: 'Inter', sans-serif; font-weight: 400;">
-  Crafting Digital Experiences | Innovating Through Code | Open Source Advocate
+<p align="center">
+  <strong>Crafting Digital Experiences | Innovating Through Code | Open Source Advocate</strong>
 </p>
 
 <div align="center">
@@ -19,9 +15,13 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 
 I'm a software alchemist, turning lines of code into digital gold. With a passion for clean, efficient, and innovative solutions, I navigate the ever-evolving tech landscape, leaving a trail of elegant code in my wake.
+
+---
 
 ## 🛠 Tech Arsenal
 
@@ -32,7 +32,6 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
@@ -40,6 +39,8 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff)
 
 </div>
+
+---
 
 ## 🌟 Featured Creations
 
@@ -49,11 +50,11 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
   </a>
 </div>
 
-<h3 align="center" style="font-family: 'Inter', sans-serif; font-weight: 600;">
+<h3 align="center">
   <a href="https://www.npmjs.com/package/rudal-cipher-toolkit">Rudal Cipher Toolkit</a>
 </h3>
 
-<p align="center" style="font-family: 'Inter', sans-serif; font-weight: 400;">
+<p align="center">
   A state-of-the-art encryption library, providing robust security solutions for modern applications.
 </p>
 
@@ -64,55 +65,64 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 
 </div>
 
+---
+
 ## 📊 GitHub Odyssey
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&bg_color=0D1117&hide_title=true&hide_rank=true" alt="GitHub Stats" height="160">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3B82F6&background=0D1117" alt="GitHub Streak" height="160">
 </div>
 
+---
+
 ## 🏆 Achievements Unlocked
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rudalkunwar&theme=darkhub&no-frame=true&row=1&column=4" alt="GitHub Trophies">
 </div>
 
+---
+
 ## 🌱 Growth Garden
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph">
 </div>
 
+---
+
 ## 💡 Innovation Spotlight
 
-<div align="center" style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+<div align="center">
   <div>
-    <h4 style="font-family: 'Inter', sans-serif; font-weight: 600;">Latest Blog Post</h4>
+    <h4>Latest Blog Post</h4>
     <a href="https://dev.to/rudalkunwar">
       <img src="https://res.cloudinary.com/dqab7rimk/image/upload/v1706002950/blog-post-placeholder_jyq5mf.png" alt="Latest Blog Post" width="250px">
     </a>
   </div>
   <div>
-    <h4 style="font-family: 'Inter', sans-serif; font-weight: 600;">Current Project</h4>
+    <h4>Current Project</h4>
     <a href="https://github.com/rudalkunwar">
       <img src="https://res.cloudinary.com/dqab7rimk/image/upload/v1706002950/project-placeholder_kxyaz5.png" alt="Current Project" width="250px">
     </a>
   </div>
 </div>
 
-<div align="center" style="margin-top: 30px;">
+---
+
+<div align="center">
   <a href="https://www.buymeacoffee.com/rudalkunwar">
     <img src="https://img.buymeacoffee.com/button-api/?text=Fuel my code&emoji=☕&slug=rudalkunwar&button_colour=3B82F6&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me A Coffee" width="200px">
   </a>
 </div>
 
-<div align="center" style="margin-top: 30px;">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rudalkunwar&color=3B82F6&style=for-the-badge)
 
 </div>
 
-<div align="center" style="margin-top: 50px;">
+<div align="center">
   <img src="https://res.cloudinary.com/dqab7rimk/image/upload/v1706001950/rudal-sleek-footer_pjbznf.png" alt="Rudal Kunwar Footer" width="100%">
 </div>
-
