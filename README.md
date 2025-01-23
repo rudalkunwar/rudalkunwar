@@ -57,7 +57,7 @@ I'm a software alchemist, turning lines of code into digital gold. With a passio
 <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3B82F6&background=0D1117" alt="GitHub Streak" height="160">
 </div>
----
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph">
 </div>
