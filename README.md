@@ -69,9 +69,7 @@ I'm a software developer passionate about creating tools and applications that m
     <td width="50%">
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/rudalkunwar">
        [![GitHub Streak](https://streak-stats.demolab.com/?user=rudalkunwar)](https://git.io/streak-stats)
-        </a>
       </p>
     </td>
   </tr>
