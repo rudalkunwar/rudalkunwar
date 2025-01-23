@@ -1,127 +1,81 @@
-<!-- Header Image -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Rudal%20Kunwar&fontSize=70&fontAlignY=40&animation=scaleIn"/>
+</div>
+
+<h3 align="center" style="background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px;">
+  🚀 Software Developer | Tech Innovator | Open Source Enthusiast
+</h3>
+
+## 🌐 About My Journey
+
+Crafting digital solutions that bridge imagination and functionality. My code is a canvas where creativity meets logic, transforming complex problems into elegant solutions.
+
+## 📦 Featured Project
+
+### [Rudal Cipher Toolkit](https://www.npmjs.com/package/rudal-cipher-toolkit)
+[![NPM Version](https://img.shields.io/npm/v/rudal-cipher-toolkit?style=flat-square&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/rudal-cipher-toolkit)
+[![Downloads](https://img.shields.io/npm/dm/rudal-cipher-toolkit?style=flat-square&logo=npm&logoColor=white&color=blue)](https://www.npmjs.com/package/rudal-cipher-toolkit)
+
+## 💻 Tech Landscape
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,tailwind,express,laravel,firebase,mysql,nextjs&perline=5" alt="Tech Stack"/>
 </p>
 
-<h1 align="center">Hi there, I'm Rudal Kunwar! 👋</h1>
+## 📊 GitHub Constellation
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=radical&background=0D1117&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true" alt="Streak Stats"/>
+  </picture>
+</div>
+
+## 🌈 Contribution Canvas
+
 <p align="center">
-  <a href="https://www.rudalkunwar.com.np/">Personal Website</a> •
-  <a href="mailto:ruzalkunwar@gmail.com">Email Me</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 </p>
 
----
+## 🤝 Digital Coordinates
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://www.rudalkunwar.com.np/" target="_blank">
+    <img alt="Personal Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://np.linkedin.com/in/rudal-kunwar-4561bb260" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ruzalkunwar@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I'm a software developer passionate about creating tools and applications that make life easier. Check out my latest project:
-
-- [Personal Website](https://www.rudalkunwar.com.np/)
-
----
-
-## 📦 NPM Package
-### Rudal Cipher Toolkit
-
-- [Rudal Cipher Toolkit](https://www.npmjs.com/package/rudal-cipher-toolkit)
-
----
-
-## 📊 GitHub Stats and Top Languages
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical" alt="Rudal's GitHub stats" />
-  <br/>
-  <div style="height:10px"></div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact&theme=radical" alt="Top Langs" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudalkunwar&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
 
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudalkunwar&color=blue" alt="Profile Views" />
-</p>
-
----
-
-## 💻 Languages and Tools
-
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,python,laravel,mongodb,firebase,mysql,sqlite,react,nodejs,express,c,java,nextjs&perline=5" alt="Languages and Tools" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rudalkunwar">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
- <td width="50%">
-  <h3 align="center"><strong>Streak Stats</strong></h3>
-<p align="center">
-    <a href="https://github.com/rudalkunwar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rudal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-</td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Latest Project</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rudalkunwar/rudal-cipher-toolkit">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=rudalkunwar&repo=rudal-cipher-toolkit&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Your Latest Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rudalkunwar">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rudalkunwar&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://np.linkedin.com/in/rudal-kunwar-4561bb260" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="mailto:ruzalkunwar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/kuns.ruzal" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
-  </a>
-</p>
-
----
-
-## My Favorite 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+</div>
