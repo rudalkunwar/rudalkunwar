@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Rudal%20Kunwar&fontSize=70&fontAlignY=40&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rudal%20Kunwar&fontSize=70&fontAlignY=40&animation=fadeIn"/>
 </div>
 
-<h2 align="center" style="background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px;">
+<h2 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px;">
   🚀 Software Developer | Tech Innovator | Open Source Enthusiast
 </h2>
 
