@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Crafting Digital Experiences | Innovating Through Code | Open Source Advocate</strong>
+  <strong>| FullStack Developer | </strong>
 </p>
 
 <div align="center">
