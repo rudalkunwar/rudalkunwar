@@ -16,8 +16,7 @@
 </div>
 
 ---
-I'm a software alchemist, turning lines of code into digital gold. With a passion for clean, efficient, and innovative solutions, I navigate the ever-evolving tech landscape, leaving a trail of elegant code in my wake.
-
+I'm a software the fullstack developer.
 ---
 <div align="center">
 
