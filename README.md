@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>| FullStack Developer | </strong>
+  <strong>FullStack Developer  </strong>
 </p>
 
 <div align="center">
@@ -14,10 +14,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/rudalkunwar)
 
 </div>
-
----
-I'm a software the fullstack developer.
----
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
