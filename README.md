@@ -44,13 +44,8 @@
 
 <div align="center">
  <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true" alt="GitHub Stats"/> </picture> 
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3B82F6&background=0D1117" alt="GitHub Streak" height="160">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph">
-</div>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=rudalkunwar&color=3B82F6&style=for-the-badge)
