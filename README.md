@@ -25,14 +25,6 @@
 </div>
 
 ---
-<h3 align="center">
-  <a href="https://www.npmjs.com/package/rudal-cipher-toolkit">Rudal Cipher Toolkit</a>
-</h3>
-
-<p align="center">
-  A state-of-the-art encryption library, providing robust security solutions for modern applications.
-</p>
-
 <div align="center">
   
   [![NPM Version](https://img.shields.io/npm/v/rudal-cipher-toolkit?style=for-the-badge&logo=npm&logoColor=fff&color=CB3837)](https://www.npmjs.com/package/rudal-cipher-toolkit)
