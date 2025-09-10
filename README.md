@@ -25,14 +25,6 @@
 </div>
 
 ---
-<div align="center">
-  
-  [![NPM Version](https://img.shields.io/npm/v/rudal-cipher-toolkit?style=for-the-badge&logo=npm&logoColor=fff&color=CB3837)](https://www.npmjs.com/package/rudal-cipher-toolkit)
-  [![Downloads](https://img.shields.io/npm/dm/rudal-cipher-toolkit?style=for-the-badge&logo=npm&logoColor=fff&color=231F20)](https://www.npmjs.com/package/rudal-cipher-toolkit)
-
-</div>
-
----
 
 <div align="center">
  <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true" alt="GitHub Stats"/> </picture> 
