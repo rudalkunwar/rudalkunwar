@@ -1,37 +1,100 @@
-<div>
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF-6anv0BuAhA/profile-displaybackgroundimage-shrink_350_1400/B56ZbkHkb_GgAc-/0/1747583914353?e=1760572800&v=beta&t=FrjAnpoqKelnACR2IIn7o2pk1N7P-auu6n3QRrZaQpo"/>
+# 
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF-6anv0BuAhA/profile-displaybackgroundimage-shrink_350_1400/B56ZbkHkb_GgAc-/0/1747583914353?e=1760572800&v=beta&t=FrjAnpoqKelnACR2IIn7o2pk1N7P-auu6n3QRrZaQpo" alt="Header" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=3B82F6&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there!+👋+I'm+Rudal;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
+
+## 🌟 Connect With Me
+
+<div align="center">
+  <a href="https://www.rudalkunwar.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
+  </a>
+  <a href="https://np.linkedin.com/in/rudal-kunwar-4561bb260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ruzalkunwar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
+  <a href="https://github.com/rudalkunwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 Tech Arsenal
+
+<div align="center">
+
+### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rudalkunwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  
-  [![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=fff)](https://www.rudalkunwar.com.np/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://np.linkedin.com/in/rudal-kunwar-4561bb260)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ruzalkunwar@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/rudalkunwar)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=algolia&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff)
-
-</div>
-
----
 
 <div align="center">
- <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudalkunwar&show_icons=true&hide_border=true" alt="GitHub Stats"/> </picture> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&theme=react-dark&bg_color=0D1117&hide_border=true&line=3B82F6&point=3B82F6&color=ffffff" width="100%"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=rudalkunwar&color=3B82F6&style=for-the-badge)
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudalkunwar&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudalkunwar&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/rudalkunwar?color=3B82F6&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_hire-brightgreen?style=for-the-badge" alt="Hiring Status"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
