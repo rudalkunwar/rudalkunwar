@@ -66,28 +66,27 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudalkunwar&theme=algolia&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rudalkunwar&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&theme=react-dark&bg_color=0D1117&hide_border=true&line=3B82F6&point=3B82F6&color=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rudalkunwar&theme=react-dark&bg_color=0D1117&hide_border=true&line=3B82F6&point=3B82F6&color=ffffff" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudalkunwar&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rudalkunwar&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rudalkunwar&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" alt="WakaTime Stats"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rudalkunwar&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
