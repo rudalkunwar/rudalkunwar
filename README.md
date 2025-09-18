@@ -74,9 +74,7 @@
 </div>
 
 ### 📈 Contribution Graph
-<div align="center">
 [![Rudal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rudalkunwar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
