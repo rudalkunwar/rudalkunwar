@@ -58,19 +58,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Analytics
-
+### 📈 GitHub Activity  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rudalkunwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rudalkunwar&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rudalkunwar&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rudalkunwar&theme=react-dark&bg_color=0D1117&hide_border=true&line=3B82F6&point=3B82F6&color=ffffff" width="100%"/>
+  
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rudalkunwar&theme=github-dark&hide_border=true)
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
