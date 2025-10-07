@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=3B82F6&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there!+👋+I'm+Rudal;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-</div>
-
 ## 🌟 Connect With Me
 
 <div align="center">
