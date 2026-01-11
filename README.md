@@ -4,7 +4,7 @@
 
 **Rudal Kunwar**
 
-Full Stack Developer • Cloud Enthusiast
+Full Stack Developer
 
 <br/>
 
